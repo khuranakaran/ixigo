@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ixigo</string>
+    <string name="booking_options">Booking Options</string>
+    <string name="makemytrip">MakeMyTrip</string>
+    <string name="price">price</string>
+    <string name="book">BOOK</string>
+</resources>

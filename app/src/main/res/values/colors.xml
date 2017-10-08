@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="profile_edittext_hint">#666666</color>
+    <color name="red">#ff3333</color>
+    <color name="colorTextHint">#9FA2A4</color>
+    <color name="golden">#F9B515</color>
+    <color name="white">#ffffff</color>
+    <color name="view_bg">#eaeaea</color>
+
+</resources>
